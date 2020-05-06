@@ -3,9 +3,9 @@ package config
 import (
 	"sync"
 
-	"github.com/gochenzl/chess/common"
-	"github.com/gochenzl/chess/util/conf"
-	"github.com/gochenzl/chess/util/log"
+	"chess/common"
+	"chess/util/conf"
+	"chess/util/log"
 )
 
 type gameServer struct {
