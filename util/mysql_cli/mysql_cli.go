@@ -2,7 +2,7 @@ package mysql_cli
 
 import (
 	"database/sql"
-	_ "go-sql-driver/mysql"
+	//_ "go-sql-driver/mysql"
 
 	"github.com/gochenzl/chess/util/log"
 )
