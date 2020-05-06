@@ -7,7 +7,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/gochenzl/chess/util/log"
+	"github.com/starqingzhu/chess/util/log"
 	"github.com/golang/protobuf/proto"
 )
 

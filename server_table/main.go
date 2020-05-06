@@ -6,10 +6,10 @@ import (
 	"os"
 	"strconv"
 
-	"github.com/gochenzl/chess/common"
-	"github.com/gochenzl/chess/server_table/pkg"
-	"github.com/gochenzl/chess/util/log"
-	"github.com/gochenzl/chess/util/redis_cli"
+	"github.com/starqingzhu/chess/common"
+	"github.com/starqingzhu/chess/server_table/pkg"
+	"github.com/starqingzhu/chess/util/log"
+	"github.com/starqingzhu/chess/util/redis_cli"
 )
 
 func main() {

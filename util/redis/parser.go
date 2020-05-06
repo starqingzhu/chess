@@ -6,7 +6,7 @@ import (
 	"io"
 	"strconv"
 
-	"github.com/gochenzl/chess/util/log"
+	"github.com/starqingzhu/chess/util/log"
 )
 
 const (

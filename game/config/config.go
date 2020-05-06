@@ -3,9 +3,9 @@ package config
 import (
 	"sync"
 
-	"github.com/gochenzl/chess/common"
-	"github.com/gochenzl/chess/util/conf"
-	"github.com/gochenzl/chess/util/log"
+	"github.com/starqingzhu/chess/common"
+	"github.com/starqingzhu/chess/util/conf"
+	"github.com/starqingzhu/chess/util/log"
 )
 
 type GateQueueAddr struct {

@@ -8,11 +8,11 @@ import (
 	"sync"
 	"time"
 
-	"github.com/gochenzl/chess/codec"
-	"github.com/gochenzl/chess/common"
-	"github.com/gochenzl/chess/game/session"
-	"github.com/gochenzl/chess/util/buf_pool"
-	"github.com/gochenzl/chess/util/log"
+	"github.com/starqingzhu/chess/codec"
+	"github.com/starqingzhu/chess/common"
+	"github.com/starqingzhu/chess/game/session"
+	"github.com/starqingzhu/chess/util/buf_pool"
+	"github.com/starqingzhu/chess/util/log"
 )
 
 type respInfo struct {

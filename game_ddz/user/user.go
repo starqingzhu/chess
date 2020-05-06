@@ -3,8 +3,8 @@ package user
 import (
 	"strconv"
 
-	"github.com/gochenzl/chess/game_ddz/pb_user"
-	"github.com/gochenzl/chess/util/log"
+	"github.com/starqingzhu/chess/game_ddz/pb_user"
+	"github.com/starqingzhu/chess/util/log"
 	"github.com/golang/protobuf/proto"
 	"gopkg.in/redis.v3"
 )

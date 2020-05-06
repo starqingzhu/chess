@@ -6,11 +6,11 @@ import (
 
 	"gopkg.in/redis.v3"
 
-	"github.com/gochenzl/chess/codec"
-	"github.com/gochenzl/chess/common"
-	"github.com/gochenzl/chess/game/config"
-	"github.com/gochenzl/chess/util/hack"
-	"github.com/gochenzl/chess/util/log"
+	"github.com/starqingzhu/chess/codec"
+	"github.com/starqingzhu/chess/common"
+	"github.com/starqingzhu/chess/game/config"
+	"github.com/starqingzhu/chess/util/hack"
+	"github.com/starqingzhu/chess/util/log"
 )
 
 type gateQueueInfo struct {

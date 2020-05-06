@@ -1,8 +1,8 @@
 package pkg
 
 import (
-	"github.com/gochenzl/chess/common"
-	"github.com/gochenzl/chess/util/log"
+	"github.com/starqingzhu/chess/common"
+	"github.com/starqingzhu/chess/util/log"
 )
 
 func Init(confPath string) bool {

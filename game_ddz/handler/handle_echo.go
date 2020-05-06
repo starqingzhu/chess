@@ -1,8 +1,8 @@
 package handler
 
 import (
-	"github.com/gochenzl/chess/common"
-	"github.com/gochenzl/chess/game/server"
+	"github.com/starqingzhu/chess/common"
+	"github.com/starqingzhu/chess/game/server"
 )
 
 func HandleEcho(userid uint32, connid uint32, msgBody []byte) {

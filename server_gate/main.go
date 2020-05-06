@@ -7,13 +7,13 @@ import (
 	"strings"
 	"time"
 
-	"github.com/gochenzl/chess/common"
-	"github.com/gochenzl/chess/server_gate/config"
-	"github.com/gochenzl/chess/server_gate/connid"
-	"github.com/gochenzl/chess/server_gate/pkg"
-	"github.com/gochenzl/chess/util/log"
-	"github.com/gochenzl/chess/util/rpc"
-	"github.com/gochenzl/chess/util/services"
+	"github.com/starqingzhu/chess/common"
+	"github.com/starqingzhu/chess/server_gate/config"
+	"github.com/starqingzhu/chess/server_gate/connid"
+	"github.com/starqingzhu/chess/server_gate/pkg"
+	"github.com/starqingzhu/chess/util/log"
+	"github.com/starqingzhu/chess/util/rpc"
+	"github.com/starqingzhu/chess/util/services"
 )
 
 func refreshBackend() {
